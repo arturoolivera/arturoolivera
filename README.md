@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>👋 Hi there, I'm Arturo Olivera!</h1>
+<h1>Arturo Olivera - Business Analytics & Data Professional</h1>
 
 <p>
     I'm a Chemical Engineer and a Master's student in Business Analytics and Big Data at <a href="https://www.ie.edu/business-school/">IE Business School</a>. Currently based in Madrid, Spain, I have a diverse background with experience in financial risk analysis, sales, and infrastructure development. My analytical thinking, combined with my strong interpersonal skills, has allowed me to drive impactful results in my professional journey.
