@@ -20,11 +20,11 @@
 
 <h2>🛠 Skills</h2>
 <ul>
-    <li>Excel</li>
-    <li>Python</li>
-    <li>SQL</li>
-    <li>Matlab</li>
-    <li>Aspen Plus</li>
+    <li><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></li>
+    <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
+    <li><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"></li>
+    <li><img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab"></li>
+    <li><img src="https://img.shields.io/badge/Aspen_Plus-0A8B9F?style=for-the-badge" alt="Aspen Plus"></li>
 </ul>
 
 <h2>🌐 Languages</h2>
