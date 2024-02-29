@@ -49,6 +49,7 @@
 </p>
 <ul>
     <li><a href="https://github.com/arturoolivera/ml-portfolio-app">ML Classification Project</a> - This Streamlit-based web application offers users the ability to predict outcomes across multiple datasets using a variety of machine learning classifiers. With an intuitive interface, users can seamlessly select from datasets like Wine Quality, Iris Species, and more, input data via interactive sliders, choose a preferred ML model, and instantly obtain predictions. Tailored for both novices and experts, this tool bridges the gap between data and actionable insights.</li>
+    <li><a href="https://github.com/arturoolivera/CryptoNewsImpactAnalysis">Crypto News Impact Analysis</a> - Explore the impact of news on cryptocurrency markets through automated data collection, relevance, sentiment, and strength analysis using GDELT data. This project offers insights into market dynamics with Jupyter notebooks guiding the entire process.</li>
     <!-- Add more projects as needed -->
 </ul>
 
